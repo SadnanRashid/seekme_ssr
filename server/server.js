@@ -1,11 +1,10 @@
 import express from "express";
 import fs from "fs";
 import path from "path";
-
 import React from "react";
 import ReactDOMServer from "react-dom/server";
-
 import App from "../src/App";
+import logger from "./logger";
 
 const PORT = 8000;
 
@@ -28,6 +27,12 @@ app.use("^/$", (req, res, next) => {
 
 app.use(express.static(path.resolve(__dirname, "..", "build")));
 
+// Use the logger
+app.use((req, res, next) => {
+  logger.info(`${req.method} ${req.url}`);
+  next();
+});
+
 // Handle all other requests
 app.get("*", (req, res) => {
   res
@@ -37,4 +42,5 @@ app.get("*", (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`App launched on ${PORT}`);
+  logger.info(`App launched on ${PORT}`);
 });
