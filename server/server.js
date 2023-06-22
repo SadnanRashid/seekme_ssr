@@ -30,7 +30,9 @@ app.use(express.static(path.resolve(__dirname, "..", "build")));
 
 // Handle all other requests
 app.get("*", (req, res) => {
-  res.sendFile(path.resolve(__dirname, "..", "build", "index.html"));
+  res
+    .status(404)
+    .sendFile(path.resolve(__dirname, "..", "build", "index.html"));
 });
 
 app.listen(PORT, () => {
