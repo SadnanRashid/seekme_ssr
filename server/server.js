@@ -28,6 +28,11 @@ app.use("^/$", (req, res, next) => {
 
 app.use(express.static(path.resolve(__dirname, "..", "build")));
 
+// Handle all other requests
+app.get("*", (req, res) => {
+  res.sendFile(path.resolve(__dirname, "..", "build", "index.html"));
+});
+
 app.listen(PORT, () => {
   console.log(`App launched on ${PORT}`);
 });
