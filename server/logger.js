@@ -1,20 +1,16 @@
-const winston = require("winston");
-const { format } = require("winston");
+// Windton logger
+
+// Path: server\logger.js
+import winston from "winston";
 
 const logger = winston.createLogger({
   level: "info",
-  format: format.combine(
-    format.timestamp(),
-    format.printf(
-      ({ timestamp, level, message, method, url, responseTime }) => {
-        return `${timestamp} ${level}: ${message} | Method: ${method} | URL: ${url} | Response Time: ${responseTime}ms`;
-      }
-    )
-  ),
+  format: winston.format.json(),
   transports: [
     new winston.transports.Console(),
-    new winston.transports.File({ filename: "server.log" }),
+    new winston.transports.File({ filename: "error.log", level: "error" }),
+    new winston.transports.File({ filename: "combined.log" }),
   ],
 });
 
-module.exports = logger;
+export default logger;
