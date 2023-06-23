@@ -34,11 +34,11 @@ app.use((req, res, next) => {
 });
 
 // Handle all other requests
-app.get("*", (req, res) => {
-  res
-    .status(404)
-    .sendFile(path.resolve(__dirname, "..", "build", "index.html"));
-});
+// app.get("*", (req, res) => {
+//   res
+//     .status(404)
+//     .sendFile(path.resolve(__dirname, "..", "build", "index.html"));
+// });
 
 app.listen(PORT, () => {
   console.log(`App launched on ${PORT}`);
