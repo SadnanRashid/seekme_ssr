@@ -3000,11 +3000,6 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/what-does-this-code-do?</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
         <loc>https://seekme.ai/toolsPage/offline-chatgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
@@ -3171,11 +3166,6 @@
     </url>
     <url>
         <loc>https://seekme.ai/toolsPage/findgiftsfor</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    <url>
-        <loc>https://seekme.ai/toolsPage/what's-up-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
