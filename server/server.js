@@ -3,32 +3,13 @@ import fs from "fs";
 import path from "path";
 import React from "react";
 import ReactDOMServer from "react-dom/server";
-import { StaticRouter } from "react-router-dom/server";
+import { StaticRouter, matchPath } from "react-router-dom/server";
 import App from "../src/App";
 import logger from "./logger";
 
 const PORT = 8000;
 
 const app = express();
-
-app.use("^/$", (req, res, next) => {
-  fs.readFile(path.resolve("./build/index.html"), "utf-8", (err, data) => {
-    if (err) {
-      console.log(err);
-      return res.status(500).send("Some error happened");
-    }
-    return res.send(
-      data.replace(
-        '<div id="root"></div>',
-        `<div id="root">${ReactDOMServer.renderToString(
-          <StaticRouter location={req.url}>
-            <App />
-          </StaticRouter>
-        )}</div>`
-      )
-    );
-  });
-});
 
 app.use(express.static(path.resolve(__dirname, "..", "build")));
 
@@ -38,11 +19,35 @@ app.use((req, res, next) => {
   next();
 });
 
-// Handle all other requests
-app.get("*", (req, res) => {
-  res
-    .status(200)
-    .sendFile(path.resolve(__dirname, "..", "build", "index.html"));
+app.use("*", (req, res, next) => {
+  const routes = [
+    // Add your route configurations here
+  ];
+
+  const match = routes.find((route) => matchPath(req.url, route));
+
+  if (!match) {
+    // If the requested URL doesn't match any routes, serve the React app
+    const filePath = path.resolve(__dirname, "..", "build", "index.html");
+    fs.readFile(filePath, "utf-8", (err, data) => {
+      if (err) {
+        console.error("Error reading file:", err);
+        return res.status(500).send("Some error happened");
+      }
+      return res.send(
+        data.replace(
+          '<div id="root"></div>',
+          `<div id="root">${ReactDOMServer.renderToString(
+            <StaticRouter location={req.url}>
+              <App />
+            </StaticRouter>
+          )}</div>`
+        )
+      );
+    });
+  } else {
+    next();
+  }
 });
 
 app.listen(PORT, () => {
