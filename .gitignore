@@ -4,3 +4,4 @@ yarn.lock
 node_modules
 .vercel
 build_P/
+build_L/
