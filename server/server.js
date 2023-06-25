@@ -15,11 +15,7 @@ app.use("^/$", (req, res) => {
       return res.status(500).send("Some error happened");
     }
 
-    const html = ReactDOMServer.renderToString(
-      <StaticRouter location={req.url}>
-        <App />
-      </StaticRouter>
-    );
+    const html = ReactDOMServer.renderToString(<App />);
 
     return res.send(
       data.replace('<div id="root"></div>', `<div id="root">${html}</div>`)
