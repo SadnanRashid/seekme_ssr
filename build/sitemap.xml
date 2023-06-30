@@ -6,13 +6,8 @@
     xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
     <url>
         <loc>https://seekme.ai/</loc>
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://seekme.ai/alltools</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
     </url>
     <url>
         <loc>https://seekme.ai/blog</loc>
@@ -40,3522 +35,3522 @@
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/adcreative.ai</loc>
+        <loc>https://seekme.ai/tools/adcreative.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cody</loc>
+        <loc>https://seekme.ai/tools/cody</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fliki</loc>
+        <loc>https://seekme.ai/tools/fliki</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/headshot-pro</loc>
+        <loc>https://seekme.ai/tools/headshot-pro</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/eightify</loc>
+        <loc>https://seekme.ai/tools/eightify</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/vondy-ai</loc>
+        <loc>https://seekme.ai/tools/vondy-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/photo-ai</loc>
+        <loc>https://seekme.ai/tools/photo-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatfuel-ai</loc>
+        <loc>https://seekme.ai/tools/chatfuel-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/marketingblocks-ai</loc>
+        <loc>https://seekme.ai/tools/marketingblocks-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/magicform</loc>
+        <loc>https://seekme.ai/tools/magicform</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/shuffll</loc>
+        <loc>https://seekme.ai/tools/shuffll</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/andi</loc>
+        <loc>https://seekme.ai/tools/andi</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/taplio</loc>
+        <loc>https://seekme.ai/tools/taplio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatbase</loc>
+        <loc>https://seekme.ai/tools/chatbase</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/jasper</loc>
+        <loc>https://seekme.ai/tools/jasper</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/brandbastion-lite</loc>
+        <loc>https://seekme.ai/tools/brandbastion-lite</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/assemblyai</loc>
+        <loc>https://seekme.ai/tools/assemblyai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gptgo</loc>
+        <loc>https://seekme.ai/tools/gptgo</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/imgcreator</loc>
+        <loc>https://seekme.ai/tools/imgcreator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/synthesys-studio</loc>
+        <loc>https://seekme.ai/tools/synthesys-studio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/luna-ai</loc>
+        <loc>https://seekme.ai/tools/luna-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/magical</loc>
+        <loc>https://seekme.ai/tools/magical</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/roast-dating</loc>
+        <loc>https://seekme.ai/tools/roast-dating</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/superflows</loc>
+        <loc>https://seekme.ai/tools/superflows</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/audyo</loc>
+        <loc>https://seekme.ai/tools/audyo</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/durable</loc>
+        <loc>https://seekme.ai/tools/durable</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/upword</loc>
+        <loc>https://seekme.ai/tools/upword</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/voxwave-ai</loc>
+        <loc>https://seekme.ai/tools/voxwave-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/piggy-magic</loc>
+        <loc>https://seekme.ai/tools/piggy-magic</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-studios</loc>
+        <loc>https://seekme.ai/tools/ai-studios</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stable-diffusion</loc>
+        <loc>https://seekme.ai/tools/stable-diffusion</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/midjourney</loc>
+        <loc>https://seekme.ai/tools/midjourney</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gpt3-playground</loc>
+        <loc>https://seekme.ai/tools/gpt3-playground</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatgpt</loc>
+        <loc>https://seekme.ai/tools/chatgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/descript</loc>
+        <loc>https://seekme.ai/tools/descript</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mubert</loc>
+        <loc>https://seekme.ai/tools/mubert</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/hoppycopy</loc>
+        <loc>https://seekme.ai/tools/hoppycopy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/synthesia</loc>
+        <loc>https://seekme.ai/tools/synthesia</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/predict-ai</loc>
+        <loc>https://seekme.ai/tools/predict-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rytr</loc>
+        <loc>https://seekme.ai/tools/rytr</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dream-interpreter</loc>
+        <loc>https://seekme.ai/tools/dream-interpreter</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/magic-studio</loc>
+        <loc>https://seekme.ai/tools/magic-studio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/morise.ai</loc>
+        <loc>https://seekme.ai/tools/morise.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/namelix</loc>
+        <loc>https://seekme.ai/tools/namelix</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/copy.ai</loc>
+        <loc>https://seekme.ai/tools/copy.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/profile-picture-ai</loc>
+        <loc>https://seekme.ai/tools/profile-picture-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/writesonic</loc>
+        <loc>https://seekme.ai/tools/writesonic</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/easy-peasy.ai</loc>
+        <loc>https://seekme.ai/tools/easy-peasy.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/munch</loc>
+        <loc>https://seekme.ai/tools/munch</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/codeium</loc>
+        <loc>https://seekme.ai/tools/codeium</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/riffusion</loc>
+        <loc>https://seekme.ai/tools/riffusion</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tome</loc>
+        <loc>https://seekme.ai/tools/tome</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/papercup</loc>
+        <loc>https://seekme.ai/tools/papercup</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/longshot</loc>
+        <loc>https://seekme.ai/tools/longshot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wolframalpha</loc>
+        <loc>https://seekme.ai/tools/wolframalpha</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/browse-ai</loc>
+        <loc>https://seekme.ai/tools/browse-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/taskade</loc>
+        <loc>https://seekme.ai/tools/taskade</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/moonbeam</loc>
+        <loc>https://seekme.ai/tools/moonbeam</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/nightcafe-studio</loc>
+        <loc>https://seekme.ai/tools/nightcafe-studio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/playground-ai</loc>
+        <loc>https://seekme.ai/tools/playground-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sheetai.app</loc>
+        <loc>https://seekme.ai/tools/sheetai.app</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/airops</loc>
+        <loc>https://seekme.ai/tools/airops</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/replit</loc>
+        <loc>https://seekme.ai/tools/replit</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatmap</loc>
+        <loc>https://seekme.ai/tools/chatmap</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quick-creator</loc>
+        <loc>https://seekme.ai/tools/quick-creator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-job-copilot</loc>
+        <loc>https://seekme.ai/tools/ai-job-copilot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pagelines</loc>
+        <loc>https://seekme.ai/tools/pagelines</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gift-matchr</loc>
+        <loc>https://seekme.ai/tools/gift-matchr</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/paperclips-copilot</loc>
+        <loc>https://seekme.ai/tools/paperclips-copilot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pdf-candy</loc>
+        <loc>https://seekme.ai/tools/pdf-candy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/image-candy</loc>
+        <loc>https://seekme.ai/tools/image-candy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatsimple</loc>
+        <loc>https://seekme.ai/tools/chatsimple</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/machined.ai</loc>
+        <loc>https://seekme.ai/tools/machined.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/letsview-chat</loc>
+        <loc>https://seekme.ai/tools/letsview-chat</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/makerbox</loc>
+        <loc>https://seekme.ai/tools/makerbox</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ayfie</loc>
+        <loc>https://seekme.ai/tools/ayfie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/brandscript-generator</loc>
+        <loc>https://seekme.ai/tools/brandscript-generator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tekst.ai</loc>
+        <loc>https://seekme.ai/tools/tekst.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/promptchan</loc>
+        <loc>https://seekme.ai/tools/promptchan</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lovegenius</loc>
+        <loc>https://seekme.ai/tools/lovegenius</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/orygo-ai</loc>
+        <loc>https://seekme.ai/tools/orygo-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/video-candy</loc>
+        <loc>https://seekme.ai/tools/video-candy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ambience</loc>
+        <loc>https://seekme.ai/tools/ambience</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/auto-portrait</loc>
+        <loc>https://seekme.ai/tools/auto-portrait</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/geniea</loc>
+        <loc>https://seekme.ai/tools/geniea</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/edit-at-scale</loc>
+        <loc>https://seekme.ai/tools/edit-at-scale</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/embedditor</loc>
+        <loc>https://seekme.ai/tools/embedditor</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/filegpt</loc>
+        <loc>https://seekme.ai/tools/filegpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rythmex</loc>
+        <loc>https://seekme.ai/tools/rythmex</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/conceptmap</loc>
+        <loc>https://seekme.ai/tools/conceptmap</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/prophotos</loc>
+        <loc>https://seekme.ai/tools/prophotos</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gozen-content.ai</loc>
+        <loc>https://seekme.ai/tools/gozen-content.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-transcription-by-riverside</loc>
+        <loc>https://seekme.ai/tools/ai-transcription-by-riverside</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/writio</loc>
+        <loc>https://seekme.ai/tools/writio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/subject-line-generator</loc>
+        <loc>https://seekme.ai/tools/subject-line-generator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mapt</loc>
+        <loc>https://seekme.ai/tools/mapt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/storykube</loc>
+        <loc>https://seekme.ai/tools/storykube</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wallpapers.fyi</loc>
+        <loc>https://seekme.ai/tools/wallpapers.fyi</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/talktohim</loc>
+        <loc>https://seekme.ai/tools/talktohim</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fineshare-finevoice</loc>
+        <loc>https://seekme.ai/tools/fineshare-finevoice</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dataspot</loc>
+        <loc>https://seekme.ai/tools/dataspot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/opera-one-browser</loc>
+        <loc>https://seekme.ai/tools/opera-one-browser</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quantplus</loc>
+        <loc>https://seekme.ai/tools/quantplus</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rasa.io</loc>
+        <loc>https://seekme.ai/tools/rasa.io</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wonderchat.io</loc>
+        <loc>https://seekme.ai/tools/wonderchat.io</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/seowriting-ai</loc>
+        <loc>https://seekme.ai/tools/seowriting-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/powerdmarc</loc>
+        <loc>https://seekme.ai/tools/powerdmarc</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/deepshot-ai</loc>
+        <loc>https://seekme.ai/tools/deepshot-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/insight7</loc>
+        <loc>https://seekme.ai/tools/insight7</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/infinity-gpt</loc>
+        <loc>https://seekme.ai/tools/infinity-gpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stellaris-ai</loc>
+        <loc>https://seekme.ai/tools/stellaris-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bvm</loc>
+        <loc>https://seekme.ai/tools/bvm</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/skipit.ai</loc>
+        <loc>https://seekme.ai/tools/skipit.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/giftmethat</loc>
+        <loc>https://seekme.ai/tools/giftmethat</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/datadistillr</loc>
+        <loc>https://seekme.ai/tools/datadistillr</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/writingmate</loc>
+        <loc>https://seekme.ai/tools/writingmate</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bizway</loc>
+        <loc>https://seekme.ai/tools/bizway</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dappergpt</loc>
+        <loc>https://seekme.ai/tools/dappergpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/deepfake-generator</loc>
+        <loc>https://seekme.ai/tools/deepfake-generator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/seaart</loc>
+        <loc>https://seekme.ai/tools/seaart</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/virtual-house-flip</loc>
+        <loc>https://seekme.ai/tools/virtual-house-flip</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/nabla</loc>
+        <loc>https://seekme.ai/tools/nabla</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tekmatix</loc>
+        <loc>https://seekme.ai/tools/tekmatix</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/seo-content-ai</loc>
+        <loc>https://seekme.ai/tools/seo-content-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/call-my-link</loc>
+        <loc>https://seekme.ai/tools/call-my-link</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/zipzap</loc>
+        <loc>https://seekme.ai/tools/zipzap</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/babbl</loc>
+        <loc>https://seekme.ai/tools/babbl</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/paperclips</loc>
+        <loc>https://seekme.ai/tools/paperclips</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/magify.design</loc>
+        <loc>https://seekme.ai/tools/magify.design</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lumiere-3d</loc>
+        <loc>https://seekme.ai/tools/lumiere-3d</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/trickle-ai:-prompts-warehouse</loc>
+        <loc>https://seekme.ai/tools/trickle-ai:-prompts-warehouse</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/baby-agi</loc>
+        <loc>https://seekme.ai/tools/baby-agi</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gymbuddy-ai</loc>
+        <loc>https://seekme.ai/tools/gymbuddy-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/agentgpt</loc>
+        <loc>https://seekme.ai/tools/agentgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yobi</loc>
+        <loc>https://seekme.ai/tools/yobi</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/auto-gpt</loc>
+        <loc>https://seekme.ai/tools/auto-gpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tokee</loc>
+        <loc>https://seekme.ai/tools/tokee</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/google-bard</loc>
+        <loc>https://seekme.ai/tools/google-bard</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatgpt-plugins</loc>
+        <loc>https://seekme.ai/tools/chatgpt-plugins</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/keywords-everwhere</loc>
+        <loc>https://seekme.ai/tools/keywords-everwhere</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/loopin-ai</loc>
+        <loc>https://seekme.ai/tools/loopin-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/zoom-iq</loc>
+        <loc>https://seekme.ai/tools/zoom-iq</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/autoresponder.ai</loc>
+        <loc>https://seekme.ai/tools/autoresponder.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gen-2-by-runway</loc>
+        <loc>https://seekme.ai/tools/gen-2-by-runway</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/swell-ai</loc>
+        <loc>https://seekme.ai/tools/swell-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/eloise</loc>
+        <loc>https://seekme.ai/tools/eloise</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/scribbly</loc>
+        <loc>https://seekme.ai/tools/scribbly</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tugan.ai</loc>
+        <loc>https://seekme.ai/tools/tugan.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/creativai</loc>
+        <loc>https://seekme.ai/tools/creativai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/typingmind</loc>
+        <loc>https://seekme.ai/tools/typingmind</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/2short.ai</loc>
+        <loc>https://seekme.ai/tools/2short.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rhetorai</loc>
+        <loc>https://seekme.ai/tools/rhetorai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pinecone</loc>
+        <loc>https://seekme.ai/tools/pinecone</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/roamaround</loc>
+        <loc>https://seekme.ai/tools/roamaround</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wisdolia</loc>
+        <loc>https://seekme.ai/tools/wisdolia</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lucidpic</loc>
+        <loc>https://seekme.ai/tools/lucidpic</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/typeface</loc>
+        <loc>https://seekme.ai/tools/typeface</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/second-nature-ai</loc>
+        <loc>https://seekme.ai/tools/second-nature-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/shownotes</loc>
+        <loc>https://seekme.ai/tools/shownotes</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/synthesys-x</loc>
+        <loc>https://seekme.ai/tools/synthesys-x</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/block-survey</loc>
+        <loc>https://seekme.ai/tools/block-survey</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/imagecolorizer</loc>
+        <loc>https://seekme.ai/tools/imagecolorizer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/theloops</loc>
+        <loc>https://seekme.ai/tools/theloops</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yuma</loc>
+        <loc>https://seekme.ai/tools/yuma</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/datature</loc>
+        <loc>https://seekme.ai/tools/datature</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/one-ai</loc>
+        <loc>https://seekme.ai/tools/one-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fineshare-finecam</loc>
+        <loc>https://seekme.ai/tools/fineshare-finecam</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/where-to</loc>
+        <loc>https://seekme.ai/tools/where-to</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pencil</loc>
+        <loc>https://seekme.ai/tools/pencil</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pixelicious</loc>
+        <loc>https://seekme.ai/tools/pixelicious</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/marsai</loc>
+        <loc>https://seekme.ai/tools/marsai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/safurai</loc>
+        <loc>https://seekme.ai/tools/safurai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/scribble-diffusion</loc>
+        <loc>https://seekme.ai/tools/scribble-diffusion</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gitfluence</loc>
+        <loc>https://seekme.ai/tools/gitfluence</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mixo.io</loc>
+        <loc>https://seekme.ai/tools/mixo.io</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/productbot</loc>
+        <loc>https://seekme.ai/tools/productbot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/casper-ai</loc>
+        <loc>https://seekme.ai/tools/casper-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pplegpt</loc>
+        <loc>https://seekme.ai/tools/pplegpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/phind</loc>
+        <loc>https://seekme.ai/tools/phind</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/uberduck</loc>
+        <loc>https://seekme.ai/tools/uberduck</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/booom.ai</loc>
+        <loc>https://seekme.ai/tools/booom.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/drayk-it</loc>
+        <loc>https://seekme.ai/tools/drayk-it</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/openai-text-classifier</loc>
+        <loc>https://seekme.ai/tools/openai-text-classifier</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/galileo</loc>
+        <loc>https://seekme.ai/tools/galileo</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/studiogpt-by-latent-labs</loc>
+        <loc>https://seekme.ai/tools/studiogpt-by-latent-labs</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/microsoft-bing</loc>
+        <loc>https://seekme.ai/tools/microsoft-bing</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/venngage</loc>
+        <loc>https://seekme.ai/tools/venngage</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/powermode-ai</loc>
+        <loc>https://seekme.ai/tools/powermode-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/techcrunch-summary</loc>
+        <loc>https://seekme.ai/tools/techcrunch-summary</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/playarti</loc>
+        <loc>https://seekme.ai/tools/playarti</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wtf-does-this-company-do?</loc>
+        <loc>https://seekme.ai/tools/wtf-does-this-company-do?</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/humata-ai</loc>
+        <loc>https://seekme.ai/tools/humata-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/brain.fm</loc>
+        <loc>https://seekme.ai/tools/brain.fm</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/maps-gpt</loc>
+        <loc>https://seekme.ai/tools/maps-gpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/deep-nostalgia</loc>
+        <loc>https://seekme.ai/tools/deep-nostalgia</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yoodli-ai</loc>
+        <loc>https://seekme.ai/tools/yoodli-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pebblely</loc>
+        <loc>https://seekme.ai/tools/pebblely</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cron-ai</loc>
+        <loc>https://seekme.ai/tools/cron-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/automata</loc>
+        <loc>https://seekme.ai/tools/automata</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/namy-ai</loc>
+        <loc>https://seekme.ai/tools/namy-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gymgenie</loc>
+        <loc>https://seekme.ai/tools/gymgenie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cleanup.pictures</loc>
+        <loc>https://seekme.ai/tools/cleanup.pictures</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/journeai</loc>
+        <loc>https://seekme.ai/tools/journeai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/article-fiesta</loc>
+        <loc>https://seekme.ai/tools/article-fiesta</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gooey.ai</loc>
+        <loc>https://seekme.ai/tools/gooey.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/moji-writing-assistant-</loc>
+        <loc>https://seekme.ai/tools/moji-writing-assistant-</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-reality</loc>
+        <loc>https://seekme.ai/tools/ai-reality</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/present-ai</loc>
+        <loc>https://seekme.ai/tools/present-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/meetgeek</loc>
+        <loc>https://seekme.ai/tools/meetgeek</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/watchnow-ai</loc>
+        <loc>https://seekme.ai/tools/watchnow-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/soofy</loc>
+        <loc>https://seekme.ai/tools/soofy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/octane-ai</loc>
+        <loc>https://seekme.ai/tools/octane-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ordinary-people-prompts</loc>
+        <loc>https://seekme.ai/tools/ordinary-people-prompts</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gptagent</loc>
+        <loc>https://seekme.ai/tools/gptagent</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/laion</loc>
+        <loc>https://seekme.ai/tools/laion</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/checkforai</loc>
+        <loc>https://seekme.ai/tools/checkforai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/analogenie</loc>
+        <loc>https://seekme.ai/tools/analogenie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/releasenote.ai</loc>
+        <loc>https://seekme.ai/tools/releasenote.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatty-cat</loc>
+        <loc>https://seekme.ai/tools/chatty-cat</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/oss-insight</loc>
+        <loc>https://seekme.ai/tools/oss-insight</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/arxiv-feed</loc>
+        <loc>https://seekme.ai/tools/arxiv-feed</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/paperbrain</loc>
+        <loc>https://seekme.ai/tools/paperbrain</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/midjourney-prompt-helper</loc>
+        <loc>https://seekme.ai/tools/midjourney-prompt-helper</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fast.ai</loc>
+        <loc>https://seekme.ai/tools/fast.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/vidiq</loc>
+        <loc>https://seekme.ai/tools/vidiq</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/woebot-health</loc>
+        <loc>https://seekme.ai/tools/woebot-health</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/this-model-does-not-exist</loc>
+        <loc>https://seekme.ai/tools/this-model-does-not-exist</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/superhuman</loc>
+        <loc>https://seekme.ai/tools/superhuman</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ideasai</loc>
+        <loc>https://seekme.ai/tools/ideasai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/seo-gpt</loc>
+        <loc>https://seekme.ai/tools/seo-gpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bright-eye</loc>
+        <loc>https://seekme.ai/tools/bright-eye</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-experiments</loc>
+        <loc>https://seekme.ai/tools/ai-experiments</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/flair-ai</loc>
+        <loc>https://seekme.ai/tools/flair-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/apple-books</loc>
+        <loc>https://seekme.ai/tools/apple-books</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/neevaai</loc>
+        <loc>https://seekme.ai/tools/neevaai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tiledesk</loc>
+        <loc>https://seekme.ai/tools/tiledesk</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/krisp</loc>
+        <loc>https://seekme.ai/tools/krisp</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/find-your-next-book</loc>
+        <loc>https://seekme.ai/tools/find-your-next-book</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/socratic-by-google</loc>
+        <loc>https://seekme.ai/tools/socratic-by-google</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/talk-to-books</loc>
+        <loc>https://seekme.ai/tools/talk-to-books</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/namecheap-logo-maker</loc>
+        <loc>https://seekme.ai/tools/namecheap-logo-maker</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/creaitor-ai</loc>
+        <loc>https://seekme.ai/tools/creaitor-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pixela-ai</loc>
+        <loc>https://seekme.ai/tools/pixela-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fy!-studio</loc>
+        <loc>https://seekme.ai/tools/fy!-studio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/spellbox</loc>
+        <loc>https://seekme.ai/tools/spellbox</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tabnine</loc>
+        <loc>https://seekme.ai/tools/tabnine</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/glasp</loc>
+        <loc>https://seekme.ai/tools/glasp</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cowriter</loc>
+        <loc>https://seekme.ai/tools/cowriter</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/avatar-ai</loc>
+        <loc>https://seekme.ai/tools/avatar-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/boomy</loc>
+        <loc>https://seekme.ai/tools/boomy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/copymatic</loc>
+        <loc>https://seekme.ai/tools/copymatic</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/softr-studio</loc>
+        <loc>https://seekme.ai/tools/softr-studio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/movietoemoji</loc>
+        <loc>https://seekme.ai/tools/movietoemoji</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/suggest-gift</loc>
+        <loc>https://seekme.ai/tools/suggest-gift</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/podcast</loc>
+        <loc>https://seekme.ai/tools/podcast</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/copilot</loc>
+        <loc>https://seekme.ai/tools/copilot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/hourone</loc>
+        <loc>https://seekme.ai/tools/hourone</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/palette.fm</loc>
+        <loc>https://seekme.ai/tools/palette.fm</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/build-ai</loc>
+        <loc>https://seekme.ai/tools/build-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rewind-ai</loc>
+        <loc>https://seekme.ai/tools/rewind-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quillbot-paraphraser</loc>
+        <loc>https://seekme.ai/tools/quillbot-paraphraser</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/autodraw</loc>
+        <loc>https://seekme.ai/tools/autodraw</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-trip-planner</loc>
+        <loc>https://seekme.ai/tools/ai-trip-planner</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lookup</loc>
+        <loc>https://seekme.ai/tools/lookup</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai2sql</loc>
+        <loc>https://seekme.ai/tools/ai2sql</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/copymonkey</loc>
+        <loc>https://seekme.ai/tools/copymonkey</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/heyday</loc>
+        <loc>https://seekme.ai/tools/heyday</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/murf-ai</loc>
+        <loc>https://seekme.ai/tools/murf-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/roboflow</loc>
+        <loc>https://seekme.ai/tools/roboflow</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dalle-2</loc>
+        <loc>https://seekme.ai/tools/dalle-2</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/runwayml</loc>
+        <loc>https://seekme.ai/tools/runwayml</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/echowin</loc>
+        <loc>https://seekme.ai/tools/echowin</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/excel-formula-bot</loc>
+        <loc>https://seekme.ai/tools/excel-formula-bot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/peppertype.ai</loc>
+        <loc>https://seekme.ai/tools/peppertype.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/interiorai</loc>
+        <loc>https://seekme.ai/tools/interiorai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pollinations</loc>
+        <loc>https://seekme.ai/tools/pollinations</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/teachable-machine</loc>
+        <loc>https://seekme.ai/tools/teachable-machine</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/creative-reality-studio-(d-id)</loc>
+        <loc>https://seekme.ai/tools/creative-reality-studio-(d-id)</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/frase</loc>
+        <loc>https://seekme.ai/tools/frase</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/microsoft-designer</loc>
+        <loc>https://seekme.ai/tools/microsoft-designer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/adobe-podcast</loc>
+        <loc>https://seekme.ai/tools/adobe-podcast</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/harmonai</loc>
+        <loc>https://seekme.ai/tools/harmonai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tutorai</loc>
+        <loc>https://seekme.ai/tools/tutorai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/coqui</loc>
+        <loc>https://seekme.ai/tools/coqui</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/get3d-(nvidia)</loc>
+        <loc>https://seekme.ai/tools/get3d-(nvidia)</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stable-horde</loc>
+        <loc>https://seekme.ai/tools/stable-horde</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/hypotenuse-ai</loc>
+        <loc>https://seekme.ai/tools/hypotenuse-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quizgecko</loc>
+        <loc>https://seekme.ai/tools/quizgecko</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/natural-language-playlist</loc>
+        <loc>https://seekme.ai/tools/natural-language-playlist</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/replika</loc>
+        <loc>https://seekme.ai/tools/replika</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-sofiya</loc>
+        <loc>https://seekme.ai/tools/ai-sofiya</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/circleback.ai</loc>
+        <loc>https://seekme.ai/tools/circleback.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/eli5</loc>
+        <loc>https://seekme.ai/tools/eli5</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/canva-text-to-image</loc>
+        <loc>https://seekme.ai/tools/canva-text-to-image</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/public-prompts</loc>
+        <loc>https://seekme.ai/tools/public-prompts</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/grammarly</loc>
+        <loc>https://seekme.ai/tools/grammarly</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stunning</loc>
+        <loc>https://seekme.ai/tools/stunning</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lensa</loc>
+        <loc>https://seekme.ai/tools/lensa</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/hello-history</loc>
+        <loc>https://seekme.ai/tools/hello-history</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cool-gift-ideas</loc>
+        <loc>https://seekme.ai/tools/cool-gift-ideas</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/finta</loc>
+        <loc>https://seekme.ai/tools/finta</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/peech</loc>
+        <loc>https://seekme.ai/tools/peech</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rtutor</loc>
+        <loc>https://seekme.ai/tools/rtutor</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-cli</loc>
+        <loc>https://seekme.ai/tools/ai-cli</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/civitai</loc>
+        <loc>https://seekme.ai/tools/civitai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/erase.bg</loc>
+        <loc>https://seekme.ai/tools/erase.bg</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/xpression-camera</loc>
+        <loc>https://seekme.ai/tools/xpression-camera</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/helicone</loc>
+        <loc>https://seekme.ai/tools/helicone</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/noty.ai</loc>
+        <loc>https://seekme.ai/tools/noty.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/robin</loc>
+        <loc>https://seekme.ai/tools/robin</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/elf-help</loc>
+        <loc>https://seekme.ai/tools/elf-help</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/felvin</loc>
+        <loc>https://seekme.ai/tools/felvin</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/context</loc>
+        <loc>https://seekme.ai/tools/context</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/geniusreview</loc>
+        <loc>https://seekme.ai/tools/geniusreview</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/repl-ai</loc>
+        <loc>https://seekme.ai/tools/repl-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/promptbase</loc>
+        <loc>https://seekme.ai/tools/promptbase</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatgpt-writer</loc>
+        <loc>https://seekme.ai/tools/chatgpt-writer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/generated-photos</loc>
+        <loc>https://seekme.ai/tools/generated-photos</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/paperade</loc>
+        <loc>https://seekme.ai/tools/paperade</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/instantly</loc>
+        <loc>https://seekme.ai/tools/instantly</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/whisper-memos</loc>
+        <loc>https://seekme.ai/tools/whisper-memos</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quicklines</loc>
+        <loc>https://seekme.ai/tools/quicklines</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fireflies.ai</loc>
+        <loc>https://seekme.ai/tools/fireflies.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/storiesforkids</loc>
+        <loc>https://seekme.ai/tools/storiesforkids</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/candyicons</loc>
+        <loc>https://seekme.ai/tools/candyicons</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/alfred</loc>
+        <loc>https://seekme.ai/tools/alfred</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/brancher-ai</loc>
+        <loc>https://seekme.ai/tools/brancher-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/detect-gpt</loc>
+        <loc>https://seekme.ai/tools/detect-gpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/marbleflows</loc>
+        <loc>https://seekme.ai/tools/marbleflows</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/penelope-ai</loc>
+        <loc>https://seekme.ai/tools/penelope-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/swagai</loc>
+        <loc>https://seekme.ai/tools/swagai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/unreal-meal</loc>
+        <loc>https://seekme.ai/tools/unreal-meal</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/jenni</loc>
+        <loc>https://seekme.ai/tools/jenni</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/vidyo</loc>
+        <loc>https://seekme.ai/tools/vidyo</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatgpt-chrome-extension</loc>
+        <loc>https://seekme.ai/tools/chatgpt-chrome-extension</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/once-upon-a-bot</loc>
+        <loc>https://seekme.ai/tools/once-upon-a-bot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ad-auris</loc>
+        <loc>https://seekme.ai/tools/ad-auris</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/astria</loc>
+        <loc>https://seekme.ai/tools/astria</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/reface-ai</loc>
+        <loc>https://seekme.ai/tools/reface-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/kailua-labs</loc>
+        <loc>https://seekme.ai/tools/kailua-labs</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/anypod</loc>
+        <loc>https://seekme.ai/tools/anypod</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/merlin</loc>
+        <loc>https://seekme.ai/tools/merlin</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/whisper-ai</loc>
+        <loc>https://seekme.ai/tools/whisper-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/oracle</loc>
+        <loc>https://seekme.ai/tools/oracle</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mentioned</loc>
+        <loc>https://seekme.ai/tools/mentioned</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/speechify</loc>
+        <loc>https://seekme.ai/tools/speechify</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/visualhound</loc>
+        <loc>https://seekme.ai/tools/visualhound</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/green-screen-ai</loc>
+        <loc>https://seekme.ai/tools/green-screen-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sheetgod</loc>
+        <loc>https://seekme.ai/tools/sheetgod</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/elektrif-ai</loc>
+        <loc>https://seekme.ai/tools/elektrif-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/shakespeare</loc>
+        <loc>https://seekme.ai/tools/shakespeare</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/buffer</loc>
+        <loc>https://seekme.ai/tools/buffer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sendspark</loc>
+        <loc>https://seekme.ai/tools/sendspark</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/hush-ai</loc>
+        <loc>https://seekme.ai/tools/hush-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pickmyline</loc>
+        <loc>https://seekme.ai/tools/pickmyline</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yourgpt</loc>
+        <loc>https://seekme.ai/tools/yourgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chessgpt</loc>
+        <loc>https://seekme.ai/tools/chessgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/editgpt</loc>
+        <loc>https://seekme.ai/tools/editgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/productivity-pets</loc>
+        <loc>https://seekme.ai/tools/productivity-pets</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dreamy-paws</loc>
+        <loc>https://seekme.ai/tools/dreamy-paws</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/aifoodie</loc>
+        <loc>https://seekme.ai/tools/aifoodie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sticky</loc>
+        <loc>https://seekme.ai/tools/sticky</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/airplane-autopilot</loc>
+        <loc>https://seekme.ai/tools/airplane-autopilot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rows-ai</loc>
+        <loc>https://seekme.ai/tools/rows-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/i18ncore</loc>
+        <loc>https://seekme.ai/tools/i18ncore</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rexipie</loc>
+        <loc>https://seekme.ai/tools/rexipie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/slumbr</loc>
+        <loc>https://seekme.ai/tools/slumbr</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bothatch</loc>
+        <loc>https://seekme.ai/tools/bothatch</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/streamlit</loc>
+        <loc>https://seekme.ai/tools/streamlit</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/make-my-workout</loc>
+        <loc>https://seekme.ai/tools/make-my-workout</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/church-ai</loc>
+        <loc>https://seekme.ai/tools/church-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sibylia</loc>
+        <loc>https://seekme.ai/tools/sibylia</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/loyae</loc>
+        <loc>https://seekme.ai/tools/loyae</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sentelo</loc>
+        <loc>https://seekme.ai/tools/sentelo</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/empy.ai</loc>
+        <loc>https://seekme.ai/tools/empy.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cactus-ai</loc>
+        <loc>https://seekme.ai/tools/cactus-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/purrbook</loc>
+        <loc>https://seekme.ai/tools/purrbook</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fama.one</loc>
+        <loc>https://seekme.ai/tools/fama.one</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bg-remover</loc>
+        <loc>https://seekme.ai/tools/bg-remover</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/petal</loc>
+        <loc>https://seekme.ai/tools/petal</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/soulgen</loc>
+        <loc>https://seekme.ai/tools/soulgen</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/getanswer</loc>
+        <loc>https://seekme.ai/tools/getanswer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yobulk</loc>
+        <loc>https://seekme.ai/tools/yobulk</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/composer</loc>
+        <loc>https://seekme.ai/tools/composer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/snappy</loc>
+        <loc>https://seekme.ai/tools/snappy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fine-tuner</loc>
+        <loc>https://seekme.ai/tools/fine-tuner</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/commandbar</loc>
+        <loc>https://seekme.ai/tools/commandbar</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/playht</loc>
+        <loc>https://seekme.ai/tools/playht</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/juri-flow</loc>
+        <loc>https://seekme.ai/tools/juri-flow</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-world-today</loc>
+        <loc>https://seekme.ai/tools/ai-world-today</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/brickradar</loc>
+        <loc>https://seekme.ai/tools/brickradar</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chat-cv</loc>
+        <loc>https://seekme.ai/tools/chat-cv</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/speechllect</loc>
+        <loc>https://seekme.ai/tools/speechllect</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/landbot-ai</loc>
+        <loc>https://seekme.ai/tools/landbot-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/writewise</loc>
+        <loc>https://seekme.ai/tools/writewise</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/no-background</loc>
+        <loc>https://seekme.ai/tools/no-background</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/radiogpt</loc>
+        <loc>https://seekme.ai/tools/radiogpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/degenai</loc>
+        <loc>https://seekme.ai/tools/degenai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/westinghouse</loc>
+        <loc>https://seekme.ai/tools/westinghouse</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cramjam</loc>
+        <loc>https://seekme.ai/tools/cramjam</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ask-buffet-anything</loc>
+        <loc>https://seekme.ai/tools/ask-buffet-anything</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-keywording-tool</loc>
+        <loc>https://seekme.ai/tools/ai-keywording-tool</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-interior-pro</loc>
+        <loc>https://seekme.ai/tools/ai-interior-pro</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/are-you-smarter-than-chatgpt</loc>
+        <loc>https://seekme.ai/tools/are-you-smarter-than-chatgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/swotknot</loc>
+        <loc>https://seekme.ai/tools/swotknot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/emaildojo</loc>
+        <loc>https://seekme.ai/tools/emaildojo</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ezmail</loc>
+        <loc>https://seekme.ai/tools/ezmail</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-resume-checker</loc>
+        <loc>https://seekme.ai/tools/ai-resume-checker</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/picwonderful</loc>
+        <loc>https://seekme.ai/tools/picwonderful</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/imgcreator</loc>
+        <loc>https://seekme.ai/tools/imgcreator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/generate-json</loc>
+        <loc>https://seekme.ai/tools/generate-json</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fabric</loc>
+        <loc>https://seekme.ai/tools/fabric</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/berrycast</loc>
+        <loc>https://seekme.ai/tools/berrycast</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/blogger-ai</loc>
+        <loc>https://seekme.ai/tools/blogger-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tailwind</loc>
+        <loc>https://seekme.ai/tools/tailwind</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dante-ai</loc>
+        <loc>https://seekme.ai/tools/dante-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/regem-ai-plus</loc>
+        <loc>https://seekme.ai/tools/regem-ai-plus</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/trust-signals</loc>
+        <loc>https://seekme.ai/tools/trust-signals</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/zuva</loc>
+        <loc>https://seekme.ai/tools/zuva</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/kaila.ai</loc>
+        <loc>https://seekme.ai/tools/kaila.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/faith-forward</loc>
+        <loc>https://seekme.ai/tools/faith-forward</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/thinktask</loc>
+        <loc>https://seekme.ai/tools/thinktask</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/best-resume</loc>
+        <loc>https://seekme.ai/tools/best-resume</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mighty-travels</loc>
+        <loc>https://seekme.ai/tools/mighty-travels</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/puppiesai</loc>
+        <loc>https://seekme.ai/tools/puppiesai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/convostack</loc>
+        <loc>https://seekme.ai/tools/convostack</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/kittensai</loc>
+        <loc>https://seekme.ai/tools/kittensai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/evolia-protocol</loc>
+        <loc>https://seekme.ai/tools/evolia-protocol</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/beemer</loc>
+        <loc>https://seekme.ai/tools/beemer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yatter-plus</loc>
+        <loc>https://seekme.ai/tools/yatter-plus</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/languagemate</loc>
+        <loc>https://seekme.ai/tools/languagemate</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lumina</loc>
+        <loc>https://seekme.ai/tools/lumina</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-lesson-plans</loc>
+        <loc>https://seekme.ai/tools/ai-lesson-plans</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/grantboost</loc>
+        <loc>https://seekme.ai/tools/grantboost</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-consulting-tools</loc>
+        <loc>https://seekme.ai/tools/ai-consulting-tools</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-room-styles</loc>
+        <loc>https://seekme.ai/tools/ai-room-styles</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dog-identifier</loc>
+        <loc>https://seekme.ai/tools/dog-identifier</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/careerhub-ai</loc>
+        <loc>https://seekme.ai/tools/careerhub-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wordwield</loc>
+        <loc>https://seekme.ai/tools/wordwield</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chat2code</loc>
+        <loc>https://seekme.ai/tools/chat2code</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/vidgenius</loc>
+        <loc>https://seekme.ai/tools/vidgenius</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ulog</loc>
+        <loc>https://seekme.ai/tools/ulog</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sketchimage.ai</loc>
+        <loc>https://seekme.ai/tools/sketchimage.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/usechat</loc>
+        <loc>https://seekme.ai/tools/usechat</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/txt-muse</loc>
+        <loc>https://seekme.ai/tools/txt-muse</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/socialite-ai</loc>
+        <loc>https://seekme.ai/tools/socialite-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/typebase-ai</loc>
+        <loc>https://seekme.ai/tools/typebase-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/logoliveryai</loc>
+        <loc>https://seekme.ai/tools/logoliveryai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/teamsmartai</loc>
+        <loc>https://seekme.ai/tools/teamsmartai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ghostai</loc>
+        <loc>https://seekme.ai/tools/ghostai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bard-for-google-pro</loc>
+        <loc>https://seekme.ai/tools/bard-for-google-pro</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/logostoreai</loc>
+        <loc>https://seekme.ai/tools/logostoreai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-spend</loc>
+        <loc>https://seekme.ai/tools/ai-spend</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/jetpack-ai</loc>
+        <loc>https://seekme.ai/tools/jetpack-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/legalysis</loc>
+        <loc>https://seekme.ai/tools/legalysis</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/journey-mixer</loc>
+        <loc>https://seekme.ai/tools/journey-mixer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/img-cut</loc>
+        <loc>https://seekme.ai/tools/img-cut</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/clonedub</loc>
+        <loc>https://seekme.ai/tools/clonedub</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/textraction</loc>
+        <loc>https://seekme.ai/tools/textraction</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/emma</loc>
+        <loc>https://seekme.ai/tools/emma</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quick-mvp</loc>
+        <loc>https://seekme.ai/tools/quick-mvp</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/personaliz</loc>
+        <loc>https://seekme.ai/tools/personaliz</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/weaverse</loc>
+        <loc>https://seekme.ai/tools/weaverse</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/brave-search-summarizer</loc>
+        <loc>https://seekme.ai/tools/brave-search-summarizer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/timeto</loc>
+        <loc>https://seekme.ai/tools/timeto</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/akool</loc>
+        <loc>https://seekme.ai/tools/akool</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/teal-resume-builder</loc>
+        <loc>https://seekme.ai/tools/teal-resume-builder</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/yoursearch.ai</loc>
+        <loc>https://seekme.ai/tools/yoursearch.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wishes-ai</loc>
+        <loc>https://seekme.ai/tools/wishes-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/siteguide</loc>
+        <loc>https://seekme.ai/tools/siteguide</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bingbang.ai</loc>
+        <loc>https://seekme.ai/tools/bingbang.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/superlines</loc>
+        <loc>https://seekme.ai/tools/superlines</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/flyx</loc>
+        <loc>https://seekme.ai/tools/flyx</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/guide.ai</loc>
+        <loc>https://seekme.ai/tools/guide.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/equalto</loc>
+        <loc>https://seekme.ai/tools/equalto</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/magical-ai</loc>
+        <loc>https://seekme.ai/tools/magical-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/webyn</loc>
+        <loc>https://seekme.ai/tools/webyn</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/charactr</loc>
+        <loc>https://seekme.ai/tools/charactr</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/alby.email</loc>
+        <loc>https://seekme.ai/tools/alby.email</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pin</loc>
+        <loc>https://seekme.ai/tools/pin</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/opinionate</loc>
+        <loc>https://seekme.ai/tools/opinionate</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stealth-writer</loc>
+        <loc>https://seekme.ai/tools/stealth-writer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/midjourney-prompts-journey</loc>
+        <loc>https://seekme.ai/tools/midjourney-prompts-journey</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/plus-ai-qbrs-and-sales-decks</loc>
+        <loc>https://seekme.ai/tools/plus-ai-qbrs-and-sales-decks</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/babycommandagi</loc>
+        <loc>https://seekme.ai/tools/babycommandagi</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/instaphotoai</loc>
+        <loc>https://seekme.ai/tools/instaphotoai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/semafind</loc>
+        <loc>https://seekme.ai/tools/semafind</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quiz-makito</loc>
+        <loc>https://seekme.ai/tools/quiz-makito</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/salesboom.ai</loc>
+        <loc>https://seekme.ai/tools/salesboom.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/emailcompser.ai</loc>
+        <loc>https://seekme.ai/tools/emailcompser.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/zeeno</loc>
+        <loc>https://seekme.ai/tools/zeeno</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/transkribieren</loc>
+        <loc>https://seekme.ai/tools/transkribieren</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/polyhive</loc>
+        <loc>https://seekme.ai/tools/polyhive</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/jason-ai</loc>
+        <loc>https://seekme.ai/tools/jason-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/onison</loc>
+        <loc>https://seekme.ai/tools/onison</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/newsgpt</loc>
+        <loc>https://seekme.ai/tools/newsgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/transpic</loc>
+        <loc>https://seekme.ai/tools/transpic</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/commenter.ai</loc>
+        <loc>https://seekme.ai/tools/commenter.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/practice-interview</loc>
+        <loc>https://seekme.ai/tools/practice-interview</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/treebrain.ai</loc>
+        <loc>https://seekme.ai/tools/treebrain.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/merge</loc>
+        <loc>https://seekme.ai/tools/merge</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ggml</loc>
+        <loc>https://seekme.ai/tools/ggml</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/parse</loc>
+        <loc>https://seekme.ai/tools/parse</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tyles</loc>
+        <loc>https://seekme.ai/tools/tyles</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/quest</loc>
+        <loc>https://seekme.ai/tools/quest</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sigmaos</loc>
+        <loc>https://seekme.ai/tools/sigmaos</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/doubtclear-ai</loc>
+        <loc>https://seekme.ai/tools/doubtclear-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/reviewwriter.ai</loc>
+        <loc>https://seekme.ai/tools/reviewwriter.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bookhero</loc>
+        <loc>https://seekme.ai/tools/bookhero</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tellmeaboutyourself</loc>
+        <loc>https://seekme.ai/tools/tellmeaboutyourself</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rissun</loc>
+        <loc>https://seekme.ai/tools/rissun</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/minerva</loc>
+        <loc>https://seekme.ai/tools/minerva</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mike-ai</loc>
+        <loc>https://seekme.ai/tools/mike-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ideacadabra</loc>
+        <loc>https://seekme.ai/tools/ideacadabra</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rubygpt</loc>
+        <loc>https://seekme.ai/tools/rubygpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/current-ai</loc>
+        <loc>https://seekme.ai/tools/current-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/zigpoll</loc>
+        <loc>https://seekme.ai/tools/zigpoll</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/alphadev</loc>
+        <loc>https://seekme.ai/tools/alphadev</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sumarizeyt</loc>
+        <loc>https://seekme.ai/tools/sumarizeyt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/checkget</loc>
+        <loc>https://seekme.ai/tools/checkget</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/persana-ai</loc>
+        <loc>https://seekme.ai/tools/persana-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/lunabot</loc>
+        <loc>https://seekme.ai/tools/lunabot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/timecomplexity</loc>
+        <loc>https://seekme.ai/tools/timecomplexity</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mindgenie</loc>
+        <loc>https://seekme.ai/tools/mindgenie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/3dfy</loc>
+        <loc>https://seekme.ai/tools/3dfy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/summarized.video</loc>
+        <loc>https://seekme.ai/tools/summarized.video</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/twinning</loc>
+        <loc>https://seekme.ai/tools/twinning</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/satoshi-nakamoto</loc>
+        <loc>https://seekme.ai/tools/satoshi-nakamoto</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/q-slack-chatbot</loc>
+        <loc>https://seekme.ai/tools/q-slack-chatbot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/promptify-editor</loc>
+        <loc>https://seekme.ai/tools/promptify-editor</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/doclime</loc>
+        <loc>https://seekme.ai/tools/doclime</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/myroomdesigner</loc>
+        <loc>https://seekme.ai/tools/myroomdesigner</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/metaview</loc>
+        <loc>https://seekme.ai/tools/metaview</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/swipes-ai</loc>
+        <loc>https://seekme.ai/tools/swipes-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chat-8b</loc>
+        <loc>https://seekme.ai/tools/chat-8b</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/clarifypdf</loc>
+        <loc>https://seekme.ai/tools/clarifypdf</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/shmooz.ai</loc>
+        <loc>https://seekme.ai/tools/shmooz.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/breef.in</loc>
+        <loc>https://seekme.ai/tools/breef.in</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/baseplate</loc>
+        <loc>https://seekme.ai/tools/baseplate</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/writemage</loc>
+        <loc>https://seekme.ai/tools/writemage</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/neuralangelo-by-nvidia</loc>
+        <loc>https://seekme.ai/tools/neuralangelo-by-nvidia</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gasgowgpt</loc>
+        <loc>https://seekme.ai/tools/gasgowgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/shuttle</loc>
+        <loc>https://seekme.ai/tools/shuttle</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/summer-ai</loc>
+        <loc>https://seekme.ai/tools/summer-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/herotalk</loc>
+        <loc>https://seekme.ai/tools/herotalk</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/digital-surface</loc>
+        <loc>https://seekme.ai/tools/digital-surface</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cluc.io</loc>
+        <loc>https://seekme.ai/tools/cluc.io</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/klap</loc>
+        <loc>https://seekme.ai/tools/klap</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-hub</loc>
+        <loc>https://seekme.ai/tools/ai-hub</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cheggmate</loc>
+        <loc>https://seekme.ai/tools/cheggmate</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/sensible-instruct</loc>
+        <loc>https://seekme.ai/tools/sensible-instruct</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/blaze-sql</loc>
+        <loc>https://seekme.ai/tools/blaze-sql</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/docsbot-ai</loc>
+        <loc>https://seekme.ai/tools/docsbot-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/txtgenie-ai</loc>
+        <loc>https://seekme.ai/tools/txtgenie-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/match-that-role</loc>
+        <loc>https://seekme.ai/tools/match-that-role</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/logoscapes</loc>
+        <loc>https://seekme.ai/tools/logoscapes</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/harvyai</loc>
+        <loc>https://seekme.ai/tools/harvyai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ariana</loc>
+        <loc>https://seekme.ai/tools/ariana</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wavel-ai</loc>
+        <loc>https://seekme.ai/tools/wavel-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/coefficient</loc>
+        <loc>https://seekme.ai/tools/coefficient</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/eto-news</loc>
+        <loc>https://seekme.ai/tools/eto-news</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/eluna.ai</loc>
+        <loc>https://seekme.ai/tools/eluna.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/call-connect</loc>
+        <loc>https://seekme.ai/tools/call-connect</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatorg</loc>
+        <loc>https://seekme.ai/tools/chatorg</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/rightjoin</loc>
+        <loc>https://seekme.ai/tools/rightjoin</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/cyberriskai</loc>
+        <loc>https://seekme.ai/tools/cyberriskai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/smartersales</loc>
+        <loc>https://seekme.ai/tools/smartersales</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/intellinode</loc>
+        <loc>https://seekme.ai/tools/intellinode</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dashai</loc>
+        <loc>https://seekme.ai/tools/dashai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/bargpt</loc>
+        <loc>https://seekme.ai/tools/bargpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/anime-ai-generator</loc>
+        <loc>https://seekme.ai/tools/anime-ai-generator</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/jet-cut-ready</loc>
+        <loc>https://seekme.ai/tools/jet-cut-ready</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/backengine</loc>
+        <loc>https://seekme.ai/tools/backengine</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/storybooks</loc>
+        <loc>https://seekme.ai/tools/storybooks</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/joypanner</loc>
+        <loc>https://seekme.ai/tools/joypanner</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wavechat</loc>
+        <loc>https://seekme.ai/tools/wavechat</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/snapdress</loc>
+        <loc>https://seekme.ai/tools/snapdress</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/inspiro</loc>
+        <loc>https://seekme.ai/tools/inspiro</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/synthace</loc>
+        <loc>https://seekme.ai/tools/synthace</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/jurny</loc>
+        <loc>https://seekme.ai/tools/jurny</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/solidly</loc>
+        <loc>https://seekme.ai/tools/solidly</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/allwrite</loc>
+        <loc>https://seekme.ai/tools/allwrite</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pixelpet</loc>
+        <loc>https://seekme.ai/tools/pixelpet</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatpad-ai</loc>
+        <loc>https://seekme.ai/tools/chatpad-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/trolly.ai</loc>
+        <loc>https://seekme.ai/tools/trolly.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gpt-vetting</loc>
+        <loc>https://seekme.ai/tools/gpt-vetting</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/prompt-perfect</loc>
+        <loc>https://seekme.ai/tools/prompt-perfect</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/paragraphica</loc>
+        <loc>https://seekme.ai/tools/paragraphica</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/docu-talk</loc>
+        <loc>https://seekme.ai/tools/docu-talk</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/resume-reviewer</loc>
+        <loc>https://seekme.ai/tools/resume-reviewer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/thedream.ai</loc>
+        <loc>https://seekme.ai/tools/thedream.ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/website-summary-ai</loc>
+        <loc>https://seekme.ai/tools/website-summary-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/glyf</loc>
+        <loc>https://seekme.ai/tools/glyf</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/offline-chatgpt</loc>
+        <loc>https://seekme.ai/tools/offline-chatgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatgbt</loc>
+        <loc>https://seekme.ai/tools/chatgbt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/retrato</loc>
+        <loc>https://seekme.ai/tools/retrato</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/prototext</loc>
+        <loc>https://seekme.ai/tools/prototext</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/agendaai</loc>
+        <loc>https://seekme.ai/tools/agendaai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/manga-tv</loc>
+        <loc>https://seekme.ai/tools/manga-tv</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/golinks</loc>
+        <loc>https://seekme.ai/tools/golinks</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/giftideas-ai</loc>
+        <loc>https://seekme.ai/tools/giftideas-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/depth</loc>
+        <loc>https://seekme.ai/tools/depth</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/oda-moodboard</loc>
+        <loc>https://seekme.ai/tools/oda-moodboard</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatworm</loc>
+        <loc>https://seekme.ai/tools/chatworm</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/captiongen</loc>
+        <loc>https://seekme.ai/tools/captiongen</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/wetune</loc>
+        <loc>https://seekme.ai/tools/wetune</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/coverlettergpt</loc>
+        <loc>https://seekme.ai/tools/coverlettergpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/variart</loc>
+        <loc>https://seekme.ai/tools/variart</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/pokeit</loc>
+        <loc>https://seekme.ai/tools/pokeit</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/the-interview</loc>
+        <loc>https://seekme.ai/tools/the-interview</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/blog-smith</loc>
+        <loc>https://seekme.ai/tools/blog-smith</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/tuneflow</loc>
+        <loc>https://seekme.ai/tools/tuneflow</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/crowd-feel</loc>
+        <loc>https://seekme.ai/tools/crowd-feel</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/controlmeme</loc>
+        <loc>https://seekme.ai/tools/controlmeme</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/colorizethis</loc>
+        <loc>https://seekme.ai/tools/colorizethis</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/openchat</loc>
+        <loc>https://seekme.ai/tools/openchat</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/vectara</loc>
+        <loc>https://seekme.ai/tools/vectara</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/fin-ai-bot</loc>
+        <loc>https://seekme.ai/tools/fin-ai-bot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/relume</loc>
+        <loc>https://seekme.ai/tools/relume</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/adcopy</loc>
+        <loc>https://seekme.ai/tools/adcopy</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mindwrite-ai</loc>
+        <loc>https://seekme.ai/tools/mindwrite-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/smartdreams</loc>
+        <loc>https://seekme.ai/tools/smartdreams</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/clarityscribe-ai</loc>
+        <loc>https://seekme.ai/tools/clarityscribe-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/slickgpt</loc>
+        <loc>https://seekme.ai/tools/slickgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/blink</loc>
+        <loc>https://seekme.ai/tools/blink</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/travelfeed</loc>
+        <loc>https://seekme.ai/tools/travelfeed</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/findgiftsfor</loc>
+        <loc>https://seekme.ai/tools/findgiftsfor</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/aspect</loc>
+        <loc>https://seekme.ai/tools/aspect</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/figgpt</loc>
+        <loc>https://seekme.ai/tools/figgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chroma-ai</loc>
+        <loc>https://seekme.ai/tools/chroma-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-chat-bestie</loc>
+        <loc>https://seekme.ai/tools/ai-chat-bestie</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/xipher</loc>
+        <loc>https://seekme.ai/tools/xipher</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/superapi</loc>
+        <loc>https://seekme.ai/tools/superapi</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/chatguru</loc>
+        <loc>https://seekme.ai/tools/chatguru</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/permar-ai</loc>
+        <loc>https://seekme.ai/tools/permar-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/troller</loc>
+        <loc>https://seekme.ai/tools/troller</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stupidgpt</loc>
+        <loc>https://seekme.ai/tools/stupidgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/text-to-pokemon</loc>
+        <loc>https://seekme.ai/tools/text-to-pokemon</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/future-tools</loc>
+        <loc>https://seekme.ai/tools/future-tools</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/graphy-hq</loc>
+        <loc>https://seekme.ai/tools/graphy-hq</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/contentdojo.io</loc>
+        <loc>https://seekme.ai/tools/contentdojo.io</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/nvidia-launchpad-ai</loc>
+        <loc>https://seekme.ai/tools/nvidia-launchpad-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/swiftgpt</loc>
+        <loc>https://seekme.ai/tools/swiftgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/mobilegpt</loc>
+        <loc>https://seekme.ai/tools/mobilegpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/roll</loc>
+        <loc>https://seekme.ai/tools/roll</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/airbnb-review-summarizer</loc>
+        <loc>https://seekme.ai/tools/airbnb-review-summarizer</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/enhanceai</loc>
+        <loc>https://seekme.ai/tools/enhanceai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ppc-ad-editor</loc>
+        <loc>https://seekme.ai/tools/ppc-ad-editor</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/seamless-studio</loc>
+        <loc>https://seekme.ai/tools/seamless-studio</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/robomua</loc>
+        <loc>https://seekme.ai/tools/robomua</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/motionbear</loc>
+        <loc>https://seekme.ai/tools/motionbear</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/kindbuds</loc>
+        <loc>https://seekme.ai/tools/kindbuds</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/hn-resume-to-jobs</loc>
+        <loc>https://seekme.ai/tools/hn-resume-to-jobs</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/linkedin-turbo-responder</loc>
+        <loc>https://seekme.ai/tools/linkedin-turbo-responder</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/todobot</loc>
+        <loc>https://seekme.ai/tools/todobot</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/stonksgpt</loc>
+        <loc>https://seekme.ai/tools/stonksgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/gpt-stick</loc>
+        <loc>https://seekme.ai/tools/gpt-stick</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/dopepics.io</loc>
+        <loc>https://seekme.ai/tools/dopepics.io</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/ai-resume-parser</loc>
+        <loc>https://seekme.ai/tools/ai-resume-parser</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/girlfriendgpt</loc>
+        <loc>https://seekme.ai/tools/girlfriendgpt</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/deeto</loc>
+        <loc>https://seekme.ai/tools/deeto</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/candydate</loc>
+        <loc>https://seekme.ai/tools/candydate</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/kai-keyboard-ai</loc>
+        <loc>https://seekme.ai/tools/kai-keyboard-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/job-hunt-mode</loc>
+        <loc>https://seekme.ai/tools/job-hunt-mode</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/opexams</loc>
+        <loc>https://seekme.ai/tools/opexams</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/toolsPage/illusion-ai</loc>
+        <loc>https://seekme.ai/tools/illusion-ai</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d268</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d268</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d269</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d269</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d26a</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d26a</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d26b</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d26b</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d26c</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d26c</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d26d</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d26d</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d26e</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d26e</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d26f</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d26f</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d270</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d270</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d271</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d271</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d272</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d272</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d273</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d273</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d274</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d274</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d275</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d275</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d276</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d276</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d277</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d277</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d278</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d278</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d279</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d279</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d27a</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d27a</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d27b</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d27b</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d27c</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d27c</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d27d</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d27d</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d27e</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d27e</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d27f</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d27f</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d280</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d280</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d281</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d281</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d282</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d282</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d283</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d283</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d284</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d284</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d285</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d285</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d286</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d286</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d287</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d287</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d288</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d288</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d289</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d289</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d28a</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d28a</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d28b</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d28b</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d28c</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d28c</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>https://seekme.ai/singleBlog/648d61e339d44f1ecc12d28d</loc>
+        <loc>https://seekme.ai/blogarticle/648d61e339d44f1ecc12d28d</loc>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
