@@ -23,7 +23,12 @@ app.use("^/$", (req, res) => {
   });
 });
 
-app.use(express.static(path.resolve(__dirname, "..", "build")));
+// app.use(express.static(path.resolve(__dirname, "..", "build")));
+app.use(
+  express.static(path.resolve(__dirname, "..", "build"), {
+    maxAge: 31536000 * 1000,
+  })
+);
 
 // Handle all other requests
 app.get("*", (req, res) => {
